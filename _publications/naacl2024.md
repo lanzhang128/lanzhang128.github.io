@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Multi-Operational-Mathematical-Derivations-in-Latent-Space
 excerpt: 'Poster.'
 date: 2024-06-16
-venue: 'The North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)'
+venue: 'North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)'
 paperurl: 'https://aclanthology.org/2024.naacl-long.80'
 citation: 'Marco Valentino, Jordan Meadows, Lan Zhang, and Andre Freitas. 2024. Multi-Operational Mathematical Derivations in Latent Space. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 1446–1458, Mexico City, Mexico. Association for Computational Linguistics.'
 ---
