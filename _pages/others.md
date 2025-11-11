@@ -10,20 +10,18 @@ author_profile: true
 ## Talks
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}
 
 ## Blogs
 
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 ## Teaching
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-  {% endfor %}
+* Teaching Assistant, Department of Computer Science, The University of Manchester
 
 ## Slides
 
