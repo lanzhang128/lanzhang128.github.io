@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Computer Science, The University of Manchester, 2023-2026(expected)
+* Ph.D in Computer Science, The University of Manchester, 2023-2026 (expected)
 * MSc in Integrated Machine Learning Systems, University College London, 2019-2020. Dissertation: [Understanding the Latent Space in Variational Autoenocders](https://github.com/lanzhang128/lanzhang128.github.io/blob/master/files/master-dissertation.pdf), Supervised by: Ehsan Shareghi
 * BEng in Information Engineering, Southeast University, 2014-2018
 
@@ -24,6 +24,10 @@ redirect_from:
 * Apr 2021-Aug 2021: Intern of Algorithm (NLP)
   * Beijing Sensedeal
   * Duties included: build a model for event extraction by machine reading comprehension; build a model for triplet extraction; build baseline model for coreference resolution.
+
+## Awards
+
+**Best Resource Paper Award**, EMNLP 2025
 
 ## Publications
 
