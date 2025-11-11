@@ -7,23 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching
-
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-  {% endfor %}</ul>
-
 ## Talks
 
-<ul>{% for post in site.talks reversed %}
+{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
-  {% endfor %}</ul>
+{% endfor %}
 
 ## Blogs
 
-<ul>{% for post in site.posts %}
+{% for post in site.posts %}
   {% include archive-single.html %}
-{% endfor %}</ul>
+{% endfor %}
+
+## Teaching
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+  {% endfor %}
 
 ## Slides
 
