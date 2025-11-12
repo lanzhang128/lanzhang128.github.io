@@ -16,8 +16,9 @@ To highlight the challenges of achieving representation disentanglement for text
 
 **BibTex citation:**
 
-```
-@inproceedings{zhang-etal-2021-unsupervised-representation,
+<div class="code-block">
+  <pre><code id="code" class="language-python">
+  @inproceedings{zhang-etal-2021-unsupervised-representation,
     title = "Unsupervised Representation Disentanglement of Text: An Evaluation on Synthetic Datasets",
     author = "Zhang, Lan  and
       Prokhorov, Victor  and
@@ -37,6 +38,6 @@ To highlight the challenges of achieving representation disentanglement for text
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.repl4nlp-1.14/",
     doi = "10.18653/v1/2021.repl4nlp-1.14",
-    pages = "128--140"
-}
-```
+    pages = "128--140"}
+  </code></pre>
+</div>
