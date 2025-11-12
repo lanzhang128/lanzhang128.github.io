@@ -1,12 +1,13 @@
 ---
 title: "On the Effect of Isotropy on VAE Representations of Text"
 collection: publications
-permalink: /publication/On-the-Effect-of-Isotropy-on-VAE-Representations-of-Text
-excerpt: 'Oral Presentation. A short paper studies the effect of injecting isotropy into the representation of VAEs.'
+permalink: /publication/acl2022
+authors: "Lan Zhang, Wray Buntine, Ehsan Shareghi"
+excerpt: "[Paper](https://aclanthology.org/2022.acl-short.78/)&nbsp;&nbsp;&nbsp;&nbsp;
+          [Repository](https://github.com/lanzhang128/IGPVAE)"
 date: 2022-05-22
-venue: 'Association for Computational Linguistics (ACL)'
-paperurl: 'https://aclanthology.org/2022.acl-short.78'
-citation: 'Lan Zhang, Wray Buntine, and Ehsan Shareghi. 2022. On the Effect of Isotropy on VAE Representations of Text. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 694–701, Dublin, Ireland. Association for Computational Linguistics.'
+venue: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)"
+citation: "Lan Zhang, Wray Buntine, and Ehsan Shareghi. 2022. On the Effect of Isotropy on VAE Representations of Text. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 694–701, Dublin, Ireland. Association for Computational Linguistics."
 ---
 
 **Abstract**
@@ -15,20 +16,25 @@ Injecting desired geometric properties into text representations has attracted a
 
 This paper have a previous [preprint](https://arxiv.org/abs/2110.07383).
 
-BibTex citation:
-```
-@inproceedings{zhang-etal-2022-effect,
+**BibTex citation:**
+
+<div class="code-block">
+  <pre><code id="code" class="language-python">
+  @inproceedings{zhang-etal-2022-effect,
     title = "On the Effect of Isotropy on {VAE} Representations of Text",
     author = "Zhang, Lan  and
       Buntine, Wray  and
       Shareghi, Ehsan",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
     booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
     month = may,
     year = "2022",
     address = "Dublin, Ireland",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.acl-short.78",
+    url = "https://aclanthology.org/2022.acl-short.78/",
     doi = "10.18653/v1/2022.acl-short.78",
-    pages = "694--701"
-}
-```
+    pages = "694--701"}
+  </code></pre>
+</div>
