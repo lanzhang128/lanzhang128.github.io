@@ -2,10 +2,12 @@
 title: "Unsupervised Representation Disentanglement of Text: An Evaluation on Synthetic Datasets"
 collection: publications
 permalink: /publication/repl4nlp2021
+authors: "Lan Zhang, Victor Prokhorov, Ehsan Shareghi"
 excerpt: "[Paper](https://aclanthology.org/2021.repl4nlp-1.14)&nbsp;&nbsp;&nbsp;&nbsp;
           [Repository](https://github.com/lanzhang128/disentanglement)"
 date: 2021-08-05
 venue: "Proceedings of the 6th Workshop on Representation Learning for NLP (RepL4NLP-2021)"
+citation: "Lan Zhang, Victor Prokhorov, and Ehsan Shareghi. 2021. Unsupervised Representation Disentanglement of Text: An Evaluation on Synthetic Datasets. In Proceedings of the 6th Workshop on Representation Learning for NLP (RepL4NLP-2021), pages 128–140, Online. Association for Computational Linguistics."
 ---
 
 **Abstract**
